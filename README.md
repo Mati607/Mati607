@@ -13,7 +13,7 @@
 
 ### 🏆 Highlights
 
-- 🥇 **First Author** — Developed [**FlashIDS (S&P ’24)**](https://github.com/DART-Laboratory/Flash-IDS), a leading open-source **Intrusion Detection System** integrating **Graph Neural Networks**, **Word embeddings**, and **XGBoost** (⭐ 83 stars · 🔗 100 citations · 26 forks · Top 7.8% acceptance)
+- 🥇 **First Author** — Developed [**FlashIDS (S&P ’24)**](https://github.com/DART-Laboratory/Flash-IDS), a leading open-source **Intrusion Detection System** integrating **Graph Neural Networks**, **Word embeddings**, and **XGBoost** (⭐ 83 stars · 🔗 100 citations · 26 forks)
 - 🧠 **Best AI Systems Award**, UVA AI/ML Resource Fair 2024 — Recognized for **scalable, production-grade ML system design**
 - 🎓 **Graduate Fellowship**, *University of Virginia (2023–2025)* — Awarded for **stellar academic, research, and engineering performance**  
 
