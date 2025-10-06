@@ -55,7 +55,7 @@ An **enterprise-grade RAG system** for Security Operations Centers that automate
 A **privacy-first intrusion detection system** tackling the challenge of detecting cyber threats without compromising sensitive data.  
 - Leverages **federated learning**, **graph neural networks**, and **differential privacy** for secure, decentralized anomaly detection  
 - Designed for **highly scalable, distributed operations** across heterogeneous environments  
-- 🚧 *Currently private and undergoing publication review*  
+- 🚧 *Private repository under internal release review*  
 🧰 *Python · PyTorch · PyG · Differential Privacy · Federated Learning*
 
 ---
@@ -64,7 +64,7 @@ A **privacy-first intrusion detection system** tackling the challenge of detecti
 A **production-focused XAI framework** enhancing transparency and interpretability in graph-based cybersecurity systems.  
 - Provides **post-hoc explanations** and **data attribution** for AI decisions in security pipelines  
 - Integrates **GNNExplainer** for fine-grained graph reasoning and interpretable results  
-- 🚧 *Currently private and undergoing publication review*  
+- 🚧 *Private repository under internal release review*  
 🧰 *Python · PyTorch · PyG · GNNExplainer · Explainable AI*
 
 ---
