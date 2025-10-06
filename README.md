@@ -59,7 +59,7 @@ A **privacy-first intrusion detection system** tackling the challenge of detecti
 
 ---
 
-#### 🧠 [Explainable AI for Cybersecurity](https://github.com/Mati607/Explainable-Intrusion-Detection)
+#### 🔒 [Explainable AI for Cybersecurity](https://github.com/Mati607/Explainable-Intrusion-Detection)
 A **research-driven XAI framework** advancing transparency and interpretability in graph-based cybersecurity models.  
 - Provides **post-hoc explanations** and **data attribution** for AI decisions in security pipelines.  
 - Integrates **GNNExplainer** for fine-grained graph reasoning and model interpretability.  
