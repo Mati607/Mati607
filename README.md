@@ -78,7 +78,5 @@ A **research-driven XAI framework** advancing transparency and interpretability 
 
 ### 💬 Let’s Connect
 
-Open to collaborations in **AI systems**, **ML engineering**, and **open-source infrastructure**.  
+Open to opportunities in **AI systems**, **ML engineering**, and **open-source infrastructure**.  
 If you’re working on something impactful, I’d love to chat.
-
-📫 [mati@virginia.edu](mailto:mati@virginia.edu)
