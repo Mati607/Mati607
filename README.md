@@ -7,8 +7,7 @@
 
 ### 🚀 About Me
 
-💡 I’m a **Machine Learning and AI Systems Engineer** specializing in **building and deploying large-scale, production-grade AI systems**.  
-I’ve engineered end-to-end solutions across **LLM-powered RAG pipelines**, **graph learning**, **federated systems**, and **distributed AI infrastructure**, with a focus on reliability, scalability, and real-world impact.
+💡 I’m a **Machine Learning and AI Systems Engineer** specializing in **building and deploying large-scale, production-grade AI systems**. I’ve engineered end-to-end solutions across **LLM-powered RAG pipelines**, **graph learning**, **federated systems**, and **distributed AI infrastructure**, with a focus on reliability, scalability, and real-world impact.
 
 ---
 
