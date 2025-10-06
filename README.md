@@ -21,7 +21,7 @@
 
 ### 🌟 Featured Projects
 
-#### 🔥 [Flash](https://github.com/Mati607/FlashIDS)
+#### 🔥 [Flash](https://github.com/DART-Laboratory/Flash-IDS)
 A **provenance-based intrusion detection system** using **graph learning**, **semantic embeddings**, and **temporal encoding** for real-time attack detection.  
 - Models system activity as **provenance graphs** with **GNN-based contextual reasoning**.  
 - Uses **temporal Word2Vec embeddings**, **embedding recycling**, and **selective graph traversal** for scalable, low-latency inference.  
