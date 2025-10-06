@@ -40,7 +40,7 @@ A **temporal graph learning framework** for forecasting evolving trends on dynam
 
 ---
 
-#### 🛡️ [AI-Driven Security Agent](https://github.com/Mati607/AI-Driven-Security-Center-Operation)
+#### 🛡️ [AI-Driven Security Agent](https://github.com/Mati607/security-ai-agent)
 An **enterprise-ready RAG system** for Security Operations Centers that automates alert investigation using **vector search** and **LLM summarization**.  
 - Indexes **EDR logs** with **SentenceTransformer embeddings** and **FAISS** for high-signal retrieval.  
 - Generates analyst-ready summaries via **Transformer-based contextualization**.  
